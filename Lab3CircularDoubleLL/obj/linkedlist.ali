@@ -1,0 +1,119 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_DISPATCH
+RV NO_IO
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_UNCHECKED_DEALLOCATION
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U linkedlist%b		linkedlist.adb		d79fd9bb NE OO PK GE
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.unchecked_deallocation%s
+
+U linkedlist%s		linkedlist.ads		b6250a0e BN EE NE OO PK GE
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.unchecked_deallocation%s
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D a-uncdea.ads		20210520051130 c3a8ac65 ada.unchecked_deallocation%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D linkedlist.ads	20230328221642 758da66b linkedlist%s
+D linkedlist.adb	20230328221754 cf4e06d8 linkedlist%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [linkedlist standard 7 9 none]
+X 1 ada.ads
+16K9*Ada 20e8 14|1r6 15|1r6 1r23 2r6 6r26
+X 9 a-textio.ads
+58K13*Text_IO 725e16 15|1w10 1r27
+262U14*New_Line 15|51s37
+X 11 a-uncdea.ads
+20u15*Unchecked_Deallocation 14|1w10 15|2w10 6r30
+X 14 linkedlist.ads
+4R9 element 5r27 9r34 18r31
+5V19 "="{boolean} 5>22 5>24 15|60s21 73s19
+5c22 I<4R9>
+5c24 E<4R9>
+7k9*Linkedlist 4z9 5z19 25E9 37l5 37e15 15|4b14 85l5 85t15
+8R9*DList 11r36 12r31 14r39 15r40 19r36 21r32 22r34 33c9 36e14 15|8r37 18r31
+. 23r39 34r40 45r36 55r32 68r34
+9P9*elementPtr(4R9) 14r55 15r56 21r43 21r62 22r45 22r64 29r14 15|23r55 34r56
+. 55r43 55r62 68r45 68r64 69r33
+11U14*makeHead 11=23 15|8b14 16t7
+11r23 list{8R9} 15|8b23 11m7 13m7
+12V13*ListSize{integer} 12>22 15|18b13 21l8 21t16
+12r22 list{8R9} 15|18b22 20r14
+14U14*InsertAfter 14=26 14>46 15|23b14 32t7
+14r26 list{8R9} 15|23b26 27r23 28r23 31m7 31r21
+14p46 Item{9P9} 15|23b46 26r23
+15U14*InsertBefore 15=27 15>47 15|34b14 43t7
+15r27 list{8R9} 15|34b27 38r23 39r23 42m7 42r21
+15p47 Item{9P9} 15|34b47 37r23
+18U19 Process 18>27 15|50s10
+18c27 I<4R9>
+19u14*ManuealMove 19>26 15|45b14 53t7
+19r26 list{8R9} 15|45b26 48r18 49r24
+21V13*FindItem{9P9} 21>22 21>39 15|55b13 66t9
+21r22 list{8R9} 15|55b22 58r20 59r26
+21p39 C{9P9} 15|55b39 60r15
+22V13*Delete{9P9} 22=20 22>41 15|68b13 83t7
+22r20 list{8R9} 15|68b20 71r18 72r24 77m13 77r27
+22p41 C{9P9} 15|68b41 73r13
+25R9 Node 26r27 28c9 31e14 15|6r53 9r29 24r32 35r32
+26P9 nodePtr(25R9) 30r20 35r14 15|6r59 9r14 24r17 35r17 46r16 56r18 69r16
+29p7 Data{9P9} 15|14m12 26m15 37m15 50r26 60r31 61r30 73r29 76r27
+30p7 Next{26P9} 15|12m12 27m15 27r33 29r15 30m20 39m15 40m20 41r15 48r28
+. 51r29 58r30 63r31 71r28 74m26 74r42 75r21 80r29
+30p13 prev{26P9} 15|15m12 28m15 29m20 30r15 38m15 38r33 40r15 41m20 74r21
+. 75m26 75r42
+34i7 count{integer} 15|11m12 20r19 31m12 31r26 42m12 42r26 77m18 77r32
+35p7 Head{26P9} 15|13m12 27r28 28r28 38r28 39r28 48r23 49r29 58r25 59r31
+. 71r23 72r29
+X 15 linkedlist.adb
+6U14 Free[11|20] 76s33
+9p7 Head{14|26P9} 12r7 12r20 13r20 14r7 15r7 15r20
+24p7 newNode{14|26P9} 26r7 27r7 28r7 29r7 29r28 30r7 30r28
+35p7 newNode{14|26P9} 37r7 38r7 39r7 40r7 40r28 41r7 41r28
+46p7 newNode{14|26P9} 48m7 49r13 50r18 51m10 51r21
+56p9 newNode{14|26P9} 58m9 59r15 60r23 61r22 63m12 63r23
+69p7 newNode{14|26P9} 71m7 72r13 73r21 74r13 74r34 75r13 75r34 76r19 76m38
+. 76r38 80m10 80r21
+69p28 pt{14|9P9} 76m13 78r20
+
