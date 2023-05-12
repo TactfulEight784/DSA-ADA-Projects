@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__productdistributionmain.o
+[PROJECT FILES]
+C:\AdaProjects\SpaceFoodDelivery\spacefood.gpr
+20230118233938 9fe00bc29f8797e9ad884605b4cc58a6
+[BOUND OBJECT FILES]
+C:\AdaProjects\SpaceFoodDelivery\obj\CircularQue.o
+C:\AdaProjects\SpaceFoodDelivery\obj\Food_DataStructures.o
+C:\AdaProjects\SpaceFoodDelivery\obj\Stats_FoodDistribution.o
+C:\AdaProjects\SpaceFoodDelivery\obj\GateKeeperService.o
+C:\AdaProjects\SpaceFoodDelivery\obj\Distribution_Service.o
+C:\AdaProjects\SpaceFoodDelivery\obj\Food_SalesService.o
+C:\AdaProjects\SpaceFoodDelivery\obj\ProductDistributionMain.o
+[GENERATED SOURCE FILES]
+b__productdistributionmain.ads
+b__productdistributionmain.adb
+b__productdistributionmain.ali
+[RESULTING OPTIONS]
+-LC:\AdaProjects\SpaceFoodDelivery\obj\
+-LC:\AdaProjects\SpaceFoodDelivery\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
