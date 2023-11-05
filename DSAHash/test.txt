@@ -1,0 +1,1200 @@
+
+finalHash Burris Linear
+Index                      Word                 Probes                  Original Hash
+0              |        empty            |       0              |            -1             
+1              |        empty            |       0              |            -1             
+2              |        empty            |       0              |            -1             
+3              |        empty            |       0              |            -1             
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        empty            |       0              |            -1             
+7              |        empty            |       0              |            -1             
+8              |        empty            |       0              |            -1             
+9              |        empty            |       0              |            -1             
+10             |        empty            |       0              |            -1             
+11             |        empty            |       0              |            -1             
+12             |        empty            |       0              |            -1             
+13             |        empty            |       0              |            -1             
+14             |        empty            |       0              |            -1             
+15             |        empty            |       0              |            -1             
+16             |        empty            |       0              |            -1             
+17             |        empty            |       0              |            -1             
+18             |        empty            |       0              |            -1             
+19             |        empty            |       0              |            -1             
+20             |        empty            |       0              |            -1             
+21             |        empty            |       0              |            -1             
+22             |        Cook             |       1              |            22             
+23             |        Red              |       2              |            22             
+24             |        Ajose            |       3              |            22             
+25             |        Buck             |       4              |            22             
+26             |        Clark            |       5              |            22             
+27             |        Egbe             |       6              |            22             
+28             |        Garza            |       7              |            22             
+29             |        Kelly            |       8              |            22             
+30             |        Corey            |       9              |            22             
+31             |        Adam             |       10             |            22             
+32             |        Kyle             |       11             |            22             
+33             |        Scott            |       12             |            22             
+34             |        Judy             |       13             |            22             
+35             |        Derek            |       14             |            22             
+36             |        Lisa             |       15             |            22             
+37             |        Todd             |       16             |            22             
+38             |        John             |       17             |            22             
+39             |        empty            |       0              |            -1             
+40             |        empty            |       0              |            -1             
+41             |        empty            |       0              |            -1             
+42             |        empty            |       0              |            -1             
+43             |        empty            |       0              |            -1             
+44             |        1234567890123456 |       1              |            44             
+45             |        empty            |       0              |            -1             
+46             |        empty            |       0              |            -1             
+47             |        empty            |       0              |            -1             
+48             |        empty            |       0              |            -1             
+49             |        empty            |       0              |            -1             
+50             |        empty            |       0              |            -1             
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        empty            |       0              |            -1             
+54             |        empty            |       0              |            -1             
+55             |        empty            |       0              |            -1             
+56             |        empty            |       0              |            -1             
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        empty            |       0              |            -1             
+60             |        ABCDEFGHIJKLMNOP |       1              |            60             
+61             |        empty            |       0              |            -1             
+62             |        empty            |       0              |            -1             
+63             |        empty            |       0              |            -1             
+64             |        empty            |       0              |            -1             
+65             |        empty            |       0              |            -1             
+66             |        empty            |       0              |            -1             
+67             |        empty            |       0              |            -1             
+68             |        empty            |       0              |            -1             
+69             |        empty            |       0              |            -1             
+70             |        empty            |       0              |            -1             
+71             |        empty            |       0              |            -1             
+72             |        empty            |       0              |            -1             
+73             |        empty            |       0              |            -1             
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        empty            |       0              |            -1             
+77             |        empty            |       0              |            -1             
+78             |        empty            |       0              |            -1             
+79             |        empty            |       0              |            -1             
+80             |        empty            |       0              |            -1             
+81             |        empty            |       0              |            -1             
+82             |        empty            |       0              |            -1             
+83             |        empty            |       0              |            -1             
+84             |        empty            |       0              |            -1             
+85             |        empty            |       0              |            -1             
+86             |        empty            |       0              |            -1             
+87             |        Bhandari         |       1              |            87             
+88             |        Paschal          |       2              |            87             
+89             |        Arauza           |       3              |            87             
+90             |        Qamruddin        |       1              |            90             
+91             |        Nienberg         |       1              |            91             
+92             |        Acevedo          |       3              |            90             
+93             |        Ellington        |       1              |            93             
+94             |        Crouch           |       1              |            94             
+95             |        Gurung           |       3              |            93             
+96             |        Joseph           |       3              |            94             
+97             |        Octavio          |       3              |            95             
+98             |        Daniels          |       1              |            98             
+99             |        Farral           |       2              |            98             
+100            |        Carmona          |       1              |            100            
+101            |        Clayton          |       1              |            101            
+102            |        Dustin           |       3              |            100            
+103            |        Zulfiqar         |       1              |            103            
+104            |        Aguirrie         |       1              |            104            
+105            |        Casper           |       2              |            104            
+106            |        Alcantara        |       1              |            106            
+107            |        Davies           |       3              |            105            
+108            |        Dugger           |       5              |            104            
+109            |        Salkowski        |       1              |            109            
+110            |        Robert           |       5              |            106            
+111            |        Jeffrey          |       21             |            91             
+112            |        Jordon           |       13             |            100            
+113            |        Vinnela          |       16             |            98             
+114            |        Veronica         |       20             |            95             
+115            |        Matthew          |       25             |            91             
+116            |        Michael          |       26             |            91             
+117            |        Akhila           |       31             |            87             
+118            |        Charles          |       28             |            91             
+119            |        empty            |       0              |            -1             
+120            |        empty            |       0              |            -1             
+121            |        empty            |       0              |            -1             
+122            |        empty            |       0              |            -1             
+123            |        empty            |       0              |            -1             
+124            |        empty            |       0              |            -1             
+125            |        empty            |       0              |            -1             
+126            |        empty            |       0              |            -1             
+127            |        empty            |       0              |            -1             
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 6
+Average probes is: 2.08
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 31
+Average probes is: 13.2
+
+
+Total Average:7.529411764705882
+
+
+Theoretical Probes:
+Theoretical Probes: 1.3333333333333335
+
+finalHash Burris Random
+Index                      Word                 Probes                  Original Hash
+0              |        Jordon           |       5              |            100            
+1              |        Farral           |       4              |            98             
+2              |        empty            |       0              |            -1             
+3              |        Dustin           |       4              |            100            
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        Lisa             |       17             |            22             
+7              |        empty            |       0              |            -1             
+8              |        empty            |       0              |            -1             
+9              |        empty            |       0              |            -1             
+10             |        empty            |       0              |            -1             
+11             |        empty            |       0              |            -1             
+12             |        John             |       19             |            22             
+13             |        empty            |       0              |            -1             
+14             |        Kelly            |       9              |            22             
+15             |        empty            |       0              |            -1             
+16             |        Judy             |       15             |            22             
+17             |        empty            |       0              |            -1             
+18             |        empty            |       0              |            -1             
+19             |        empty            |       0              |            -1             
+20             |        empty            |       0              |            -1             
+21             |        empty            |       0              |            -1             
+22             |        Cook             |       1              |            22             
+23             |        Red              |       2              |            22             
+24             |        empty            |       0              |            -1             
+25             |        empty            |       0              |            -1             
+26             |        empty            |       0              |            -1             
+27             |        empty            |       0              |            -1             
+28             |        Ajose            |       3              |            22             
+29             |        Charles          |       7              |            91             
+30             |        empty            |       0              |            -1             
+31             |        empty            |       0              |            -1             
+32             |        empty            |       0              |            -1             
+33             |        empty            |       0              |            -1             
+34             |        empty            |       0              |            -1             
+35             |        Egbe             |       6              |            22             
+36             |        Vinnela          |       7              |            98             
+37             |        empty            |       0              |            -1             
+38             |        empty            |       0              |            -1             
+39             |        empty            |       0              |            -1             
+40             |        empty            |       0              |            -1             
+41             |        empty            |       0              |            -1             
+42             |        Kyle             |       13             |            22             
+43             |        empty            |       0              |            -1             
+44             |        1234567890123456 |       1              |            44             
+45             |        empty            |       0              |            -1             
+46             |        empty            |       0              |            -1             
+47             |        empty            |       0              |            -1             
+48             |        empty            |       0              |            -1             
+49             |        empty            |       0              |            -1             
+50             |        Clark            |       5              |            22             
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        Buck             |       4              |            22             
+54             |        empty            |       0              |            -1             
+55             |        empty            |       0              |            -1             
+56             |        empty            |       0              |            -1             
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        empty            |       0              |            -1             
+60             |        ABCDEFGHIJKLMNOP |       1              |            60             
+61             |        empty            |       0              |            -1             
+62             |        empty            |       0              |            -1             
+63             |        empty            |       0              |            -1             
+64             |        empty            |       0              |            -1             
+65             |        empty            |       0              |            -1             
+66             |        empty            |       0              |            -1             
+67             |        empty            |       0              |            -1             
+68             |        empty            |       0              |            -1             
+69             |        empty            |       0              |            -1             
+70             |        empty            |       0              |            -1             
+71             |        Todd             |       18             |            22             
+72             |        empty            |       0              |            -1             
+73             |        empty            |       0              |            -1             
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        empty            |       0              |            -1             
+77             |        Adam             |       12             |            22             
+78             |        empty            |       0              |            -1             
+79             |        empty            |       0              |            -1             
+80             |        empty            |       0              |            -1             
+81             |        empty            |       0              |            -1             
+82             |        empty            |       0              |            -1             
+83             |        empty            |       0              |            -1             
+84             |        Corey            |       11             |            22             
+85             |        empty            |       0              |            -1             
+86             |        empty            |       0              |            -1             
+87             |        Bhandari         |       1              |            87             
+88             |        Paschal          |       2              |            87             
+89             |        empty            |       0              |            -1             
+90             |        Qamruddin        |       1              |            90             
+91             |        Nienberg         |       1              |            91             
+92             |        Jeffrey          |       2              |            91             
+93             |        Arauza           |       3              |            87             
+94             |        Crouch           |       1              |            94             
+95             |        Joseph           |       2              |            94             
+96             |        Acevedo          |       3              |            90             
+97             |        Garza            |       8              |            22             
+98             |        Daniels          |       1              |            98             
+99             |        Ellington        |       3              |            93             
+100            |        Carmona          |       1              |            100            
+101            |        Clayton          |       1              |            101            
+102            |        empty            |       0              |            -1             
+103            |        Zulfiqar         |       1              |            103            
+104            |        Aguirrie         |       1              |            104            
+105            |        Casper           |       2              |            104            
+106            |        Alcantara        |       1              |            106            
+107            |        Robert           |       2              |            106            
+108            |        Veronica         |       6              |            95             
+109            |        Salkowski        |       1              |            109            
+110            |        Dugger           |       3              |            104            
+111            |        Davies           |       3              |            105            
+112            |        empty            |       0              |            -1             
+113            |        empty            |       0              |            -1             
+114            |        empty            |       0              |            -1             
+115            |        empty            |       0              |            -1             
+116            |        empty            |       0              |            -1             
+117            |        empty            |       0              |            -1             
+118            |        Akhila           |       4              |            87             
+119            |        Michael          |       5              |            91             
+120            |        empty            |       0              |            -1             
+121            |        Derek            |       16             |            22             
+122            |        Matthew          |       4              |            91             
+123            |        Scott            |       14             |            22             
+124            |        Gurung           |       4              |            93             
+125            |        empty            |       0              |            -1             
+126            |        Octavio          |       4              |            95             
+127            |        empty            |       0              |            -1             
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 6
+Average probes is: 2.08
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 19
+Average probes is: 8.36
+
+
+Total Average:5.196078431372549
+
+
+Theoretical Probes:
+Theoretical Probes: 1.3333333333333335
+
+finalHash Burris Random
+Index                      Word                 Probes                  Original Hash
+0              |        Jordon           |       5              |            100            
+1              |        Farral           |       4              |            98             
+2              |        Necromancer      |       4              |            99             
+3              |        Dustin           |       4              |            100            
+4              |        cauldron         |       5              |            104            
+5              |        Syncopate        |       4              |            102            
+6              |        Lisa             |       17             |            22             
+7              |        Constriction     |       4              |            104            
+8              |        prepossess       |       4              |            105            
+9              |        Afterwards       |       5              |            109            
+10             |        wince            |       45             |            22             
+11             |        wet              |       62             |            22             
+12             |        John             |       19             |            22             
+13             |        empty            |       0              |            -1             
+14             |        Kelly            |       9              |            22             
+15             |        empty            |       0              |            -1             
+16             |        Judy             |       15             |            22             
+17             |        Joel             |       24             |            22             
+18             |        Wine             |       37             |            22             
+19             |        empty            |       0              |            -1             
+20             |        empty            |       0              |            -1             
+21             |        Rush             |       36             |            22             
+22             |        Cook             |       1              |            22             
+23             |        Red              |       2              |            22             
+24             |        empty            |       0              |            -1             
+25             |        Staple           |       11             |            91             
+26             |        Under            |       29             |            22             
+27             |        poison           |       12             |            100            
+28             |        Ajose            |       3              |            22             
+29             |        Charles          |       7              |            91             
+30             |        empty            |       0              |            -1             
+31             |        Eye              |       26             |            22             
+32             |        brutalize        |       11             |            98             
+33             |        toluene          |       22             |            100            
+34             |        James            |       21             |            22             
+35             |        Egbe             |       6              |            22             
+36             |        Vinnela          |       7              |            98             
+37             |        orthodontist     |       8              |            90             
+38             |        Maiden           |       7              |            100            
+39             |        live             |       50             |            22             
+40             |        marsupial        |       7              |            102            
+41             |        Cook             |       32             |            22             
+42             |        Kyle             |       13             |            22             
+43             |        Jutty            |       30             |            22             
+44             |        1234567890123456 |       1              |            44             
+45             |        Batbold          |       8              |            98             
+46             |        empty            |       0              |            -1             
+47             |        Person           |       8              |            100            
+48             |        quandary         |       10             |            87             
+49             |        empty            |       0              |            -1             
+50             |        Clark            |       5              |            22             
+51             |        constrain        |       8              |            104            
+52             |        Irreversible     |       10             |            91             
+53             |        Buck             |       4              |            22             
+54             |        empty            |       0              |            -1             
+55             |        empty            |       0              |            -1             
+56             |        Northwest        |       8              |            109            
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        Finagle          |       10             |            98             
+60             |        ABCDEFGHIJKLMNOP |       1              |            60             
+61             |        Screen           |       10             |            100            
+62             |        empty            |       0              |            -1             
+63             |        empty            |       0              |            -1             
+64             |        sparse           |       14             |            91             
+65             |        mole             |       40             |            22             
+66             |        empty            |       0              |            -1             
+67             |        magnetic         |       10             |            106            
+68             |        Yolk             |       27             |            22             
+69             |        inlet            |       52             |            22             
+70             |        empty            |       0              |            -1             
+71             |        Todd             |       18             |            22             
+72             |        Wade             |       23             |            22             
+73             |        rationalize      |       14             |            100            
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        empty            |       0              |            -1             
+77             |        Adam             |       12             |            22             
+78             |        empty            |       0              |            -1             
+79             |        cap              |       42             |            22             
+80             |        empty            |       0              |            -1             
+81             |        ratiocination    |       9              |            89             
+82             |        empty            |       0              |            -1             
+83             |        Chris            |       22             |            22             
+84             |        Corey            |       11             |            22             
+85             |        empty            |       0              |            -1             
+86             |        empty            |       0              |            -1             
+87             |        Bhandari         |       1              |            87             
+88             |        Paschal          |       2              |            87             
+89             |        Fabricate        |       1              |            89             
+90             |        Qamruddin        |       1              |            90             
+91             |        Nienberg         |       1              |            91             
+92             |        Jeffrey          |       2              |            91             
+93             |        Arauza           |       3              |            87             
+94             |        Crouch           |       1              |            94             
+95             |        Joseph           |       2              |            94             
+96             |        Acevedo          |       3              |            90             
+97             |        Garza            |       8              |            22             
+98             |        Daniels          |       1              |            98             
+99             |        Ellington        |       3              |            93             
+100            |        Carmona          |       1              |            100            
+101            |        Clayton          |       1              |            101            
+102            |        Fabulous         |       2              |            101            
+103            |        Zulfiqar         |       1              |            103            
+104            |        Aguirrie         |       1              |            104            
+105            |        Casper           |       2              |            104            
+106            |        Alcantara        |       1              |            106            
+107            |        Robert           |       2              |            106            
+108            |        Veronica         |       6              |            95             
+109            |        Salkowski        |       1              |            109            
+110            |        Dugger           |       3              |            104            
+111            |        Davies           |       3              |            105            
+112            |        Christopher      |       3              |            106            
+113            |        Fernando         |       6              |            100            
+114            |        empty            |       0              |            -1             
+115            |        Misogamist       |       5              |            87             
+116            |        empty            |       0              |            -1             
+117            |        parasympathetic  |       3              |            111            
+118            |        Akhila           |       4              |            87             
+119            |        Michael          |       5              |            91             
+120            |        Perfect          |       4              |            89             
+121            |        Derek            |       16             |            22             
+122            |        Matthew          |       4              |            91             
+123            |        Scott            |       14             |            22             
+124            |        Gurung           |       4              |            93             
+125            |        Honor            |       28             |            22             
+126            |        Octavio          |       4              |            95             
+127            |        scat             |       58             |            22             
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 6
+Average probes is: 2.08
+
+
+Last 25 keys:
+Minimum probes is: 3
+Maximum probes is: 62
+Average probes is: 22.92
+
+
+Total Average:11.72549019607843
+
+
+Theoretical Probes:
+Theoretical Probes: 3.0000000000000004
+
+finalHash Burris Linear
+Index                      Word                 Probes                  Original Hash
+0              |        Afterwards       |       20             |            109            
+1              |        Person           |       30             |            100            
+2              |        Northwest        |       22             |            109            
+3              |        Irreversible     |       41             |            91             
+4              |        Fabricate        |       44             |            89             
+5              |        Staple           |       43             |            91             
+6              |        Finagle          |       37             |            98             
+7              |        Screen           |       36             |            100            
+8              |        Perfect          |       48             |            89             
+9              |        parasympathetic  |       27             |            111            
+10             |        poison           |       39             |            100            
+11             |        brutalize        |       42             |            98             
+12             |        ratiocination    |       52             |            89             
+13             |        cauldron         |       38             |            104            
+14             |        prepossess       |       38             |            105            
+15             |        orthodontist     |       54             |            90             
+16             |        magnetic         |       39             |            106            
+17             |        constrain        |       42             |            104            
+18             |        marsupial        |       45             |            102            
+19             |        rationalize      |       48             |            100            
+20             |        toluene          |       49             |            100            
+21             |        sparse           |       59             |            91             
+22             |        Cook             |       1              |            22             
+23             |        Red              |       2              |            22             
+24             |        Ajose            |       3              |            22             
+25             |        Buck             |       4              |            22             
+26             |        Clark            |       5              |            22             
+27             |        Egbe             |       6              |            22             
+28             |        Garza            |       7              |            22             
+29             |        Kelly            |       8              |            22             
+30             |        Corey            |       9              |            22             
+31             |        Adam             |       10             |            22             
+32             |        Kyle             |       11             |            22             
+33             |        Scott            |       12             |            22             
+34             |        Judy             |       13             |            22             
+35             |        Derek            |       14             |            22             
+36             |        Lisa             |       15             |            22             
+37             |        Todd             |       16             |            22             
+38             |        John             |       17             |            22             
+39             |        James            |       18             |            22             
+40             |        Chris            |       19             |            22             
+41             |        Wade             |       20             |            22             
+42             |        Joel             |       21             |            22             
+43             |        Eye              |       22             |            22             
+44             |        1234567890123456 |       1              |            44             
+45             |        Yolk             |       24             |            22             
+46             |        Honor            |       25             |            22             
+47             |        Under            |       26             |            22             
+48             |        Jutty            |       27             |            22             
+49             |        Cook             |       28             |            22             
+50             |        Rush             |       29             |            22             
+51             |        Wine             |       30             |            22             
+52             |        mole             |       31             |            22             
+53             |        cap              |       32             |            22             
+54             |        wince            |       33             |            22             
+55             |        live             |       34             |            22             
+56             |        inlet            |       35             |            22             
+57             |        scat             |       36             |            22             
+58             |        wet              |       37             |            22             
+59             |        quandary         |       101            |            87             
+60             |        ABCDEFGHIJKLMNOP |       1              |            60             
+61             |        empty            |       0              |            -1             
+62             |        empty            |       0              |            -1             
+63             |        empty            |       0              |            -1             
+64             |        empty            |       0              |            -1             
+65             |        empty            |       0              |            -1             
+66             |        empty            |       0              |            -1             
+67             |        empty            |       0              |            -1             
+68             |        empty            |       0              |            -1             
+69             |        empty            |       0              |            -1             
+70             |        empty            |       0              |            -1             
+71             |        empty            |       0              |            -1             
+72             |        empty            |       0              |            -1             
+73             |        empty            |       0              |            -1             
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        empty            |       0              |            -1             
+77             |        empty            |       0              |            -1             
+78             |        empty            |       0              |            -1             
+79             |        empty            |       0              |            -1             
+80             |        empty            |       0              |            -1             
+81             |        empty            |       0              |            -1             
+82             |        empty            |       0              |            -1             
+83             |        empty            |       0              |            -1             
+84             |        empty            |       0              |            -1             
+85             |        empty            |       0              |            -1             
+86             |        empty            |       0              |            -1             
+87             |        Bhandari         |       1              |            87             
+88             |        Paschal          |       2              |            87             
+89             |        Arauza           |       3              |            87             
+90             |        Qamruddin        |       1              |            90             
+91             |        Nienberg         |       1              |            91             
+92             |        Acevedo          |       3              |            90             
+93             |        Ellington        |       1              |            93             
+94             |        Crouch           |       1              |            94             
+95             |        Gurung           |       3              |            93             
+96             |        Joseph           |       3              |            94             
+97             |        Octavio          |       3              |            95             
+98             |        Daniels          |       1              |            98             
+99             |        Farral           |       2              |            98             
+100            |        Carmona          |       1              |            100            
+101            |        Clayton          |       1              |            101            
+102            |        Dustin           |       3              |            100            
+103            |        Zulfiqar         |       1              |            103            
+104            |        Aguirrie         |       1              |            104            
+105            |        Casper           |       2              |            104            
+106            |        Alcantara        |       1              |            106            
+107            |        Davies           |       3              |            105            
+108            |        Dugger           |       5              |            104            
+109            |        Salkowski        |       1              |            109            
+110            |        Robert           |       5              |            106            
+111            |        Jeffrey          |       21             |            91             
+112            |        Jordon           |       13             |            100            
+113            |        Vinnela          |       16             |            98             
+114            |        Veronica         |       20             |            95             
+115            |        Matthew          |       25             |            91             
+116            |        Michael          |       26             |            91             
+117            |        Akhila           |       31             |            87             
+118            |        Charles          |       28             |            91             
+119            |        Christopher      |       14             |            106            
+120            |        Fernando         |       21             |            100            
+121            |        Batbold          |       24             |            98             
+122            |        Fabulous         |       22             |            101            
+123            |        Misogamist       |       37             |            87             
+124            |        Maiden           |       25             |            100            
+125            |        Constriction     |       22             |            104            
+126            |        Necromancer      |       28             |            99             
+127            |        Syncopate        |       26             |            102            
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 6
+Average probes is: 2.08
+
+
+Last 25 keys:
+Minimum probes is: 27
+Maximum probes is: 101
+Average probes is: 42.16
+
+
+Total Average:20.823529411764707
+
+
+Theoretical Probes:
+Theoretical Probes: 3.0000000000000004
+
+finalHash MyHash Linear
+Index                      Word                 Probes                  Original Hash
+0              |        empty            |       0              |            -1             
+1              |        empty            |       0              |            -1             
+2              |        Matthew          |       1              |            2              
+3              |        empty            |       0              |            -1             
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        empty            |       0              |            -1             
+7              |        empty            |       0              |            -1             
+8              |        Salkowski        |       1              |            8              
+9              |        empty            |       0              |            -1             
+10             |        empty            |       0              |            -1             
+11             |        empty            |       0              |            -1             
+12             |        empty            |       0              |            -1             
+13             |        Lisa             |       1              |            13             
+14             |        Charles          |       1              |            14             
+15             |        empty            |       0              |            -1             
+16             |        Ellington        |       1              |            16             
+17             |        empty            |       0              |            -1             
+18             |        Corey            |       1              |            18             
+19             |        Clayton          |       2              |            18             
+20             |        empty            |       0              |            -1             
+21             |        empty            |       0              |            -1             
+22             |        empty            |       0              |            -1             
+23             |        Alcantara        |       1              |            23             
+24             |        empty            |       0              |            -1             
+25             |        Kelly            |       1              |            25             
+26             |        empty            |       0              |            -1             
+27             |        empty            |       0              |            -1             
+28             |        empty            |       0              |            -1             
+29             |        empty            |       0              |            -1             
+30             |        empty            |       0              |            -1             
+31             |        John             |       1              |            31             
+32             |        empty            |       0              |            -1             
+33             |        Qamruddin        |       1              |            33             
+34             |        empty            |       0              |            -1             
+35             |        Todd             |       1              |            35             
+36             |        empty            |       0              |            -1             
+37             |        Scott            |       1              |            37             
+38             |        empty            |       0              |            -1             
+39             |        empty            |       0              |            -1             
+40             |        Crouch           |       1              |            40             
+41             |        empty            |       0              |            -1             
+42             |        empty            |       0              |            -1             
+43             |        Veronica         |       1              |            43             
+44             |        empty            |       0              |            -1             
+45             |        empty            |       0              |            -1             
+46             |        Robert           |       1              |            46             
+47             |        empty            |       0              |            -1             
+48             |        empty            |       0              |            -1             
+49             |        empty            |       0              |            -1             
+50             |        empty            |       0              |            -1             
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        Bhandari         |       1              |            53             
+54             |        Zulfiqar         |       1              |            54             
+55             |        Michael          |       1              |            55             
+56             |        Daniels          |       1              |            56             
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        empty            |       0              |            -1             
+60             |        Judy             |       1              |            60             
+61             |        Carmona          |       1              |            61             
+62             |        Octavio          |       2              |            61             
+63             |        Egbe             |       1              |            63             
+64             |        empty            |       0              |            -1             
+65             |        Kyle             |       1              |            65             
+66             |        empty            |       0              |            -1             
+67             |        Adam             |       1              |            67             
+68             |        empty            |       0              |            -1             
+69             |        Joseph           |       1              |            69             
+70             |        Akhila           |       1              |            70             
+71             |        empty            |       0              |            -1             
+72             |        empty            |       0              |            -1             
+73             |        empty            |       0              |            -1             
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        Farral           |       1              |            76             
+77             |        empty            |       0              |            -1             
+78             |        Dugger           |       1              |            78             
+79             |        empty            |       0              |            -1             
+80             |        empty            |       0              |            -1             
+81             |        Buck             |       1              |            81             
+82             |        empty            |       0              |            -1             
+83             |        empty            |       0              |            -1             
+84             |        empty            |       0              |            -1             
+85             |        empty            |       0              |            -1             
+86             |        Ajose            |       1              |            86             
+87             |        Jeffrey          |       1              |            87             
+88             |        Jordon           |       1              |            88             
+89             |        empty            |       0              |            -1             
+90             |        empty            |       0              |            -1             
+91             |        empty            |       0              |            -1             
+92             |        Aguirrie         |       1              |            92             
+93             |        Gurung           |       2              |            92             
+94             |        empty            |       0              |            -1             
+95             |        empty            |       0              |            -1             
+96             |        empty            |       0              |            -1             
+97             |        empty            |       0              |            -1             
+98             |        Casper           |       1              |            98             
+99             |        empty            |       0              |            -1             
+100            |        Cook             |       1              |            100            
+101            |        Vinnela          |       1              |            101            
+102            |        empty            |       0              |            -1             
+103            |        Acevedo          |       1              |            103            
+104            |        ABCDEFGHIJKLMNOP |       1              |            104            
+105            |        empty            |       0              |            -1             
+106            |        empty            |       0              |            -1             
+107            |        Red              |       1              |            107            
+108            |        empty            |       0              |            -1             
+109            |        empty            |       0              |            -1             
+110            |        empty            |       0              |            -1             
+111            |        Derek            |       1              |            111            
+112            |        Davies           |       1              |            112            
+113            |        empty            |       0              |            -1             
+114            |        empty            |       0              |            -1             
+115            |        empty            |       0              |            -1             
+116            |        Arauza           |       1              |            116            
+117            |        Garza            |       1              |            117            
+118            |        Nienberg         |       1              |            118            
+119            |        Dustin           |       1              |            119            
+120            |        Paschal          |       1              |            120            
+121            |        Clark            |       1              |            121            
+122            |        1234567890123456 |       1              |            122            
+123            |        empty            |       0              |            -1             
+124            |        empty            |       0              |            -1             
+125            |        empty            |       0              |            -1             
+126            |        empty            |       0              |            -1             
+127            |        empty            |       0              |            -1             
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 1
+Average probes is: 1.0
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 2
+Average probes is: 1.12
+
+
+Total Average:1.0588235294117647
+
+
+Theoretical Probes:
+Theoretical Probes: 1.3333333333333335
+
+finalHash MyHash Linear
+Index                      Word                 Probes                  Original Hash
+0              |        orthodontist     |       8              |            121            
+1              |        toluene          |       14             |            116            
+2              |        Matthew          |       1              |            2              
+3              |        quandary         |       7              |            125            
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        wince            |       1              |            6              
+7              |        Christopher      |       1              |            7              
+8              |        Salkowski        |       1              |            8              
+9              |        magnetic         |       2              |            8              
+10             |        marsupial        |       1              |            10             
+11             |        Eye              |       1              |            11             
+12             |        empty            |       0              |            -1             
+13             |        Lisa             |       1              |            13             
+14             |        Charles          |       1              |            14             
+15             |        Necromancer      |       3              |            13             
+16             |        Ellington        |       1              |            16             
+17             |        Screen           |       2              |            16             
+18             |        Corey            |       1              |            18             
+19             |        Clayton          |       2              |            18             
+20             |        sparse           |       3              |            18             
+21             |        empty            |       0              |            -1             
+22             |        empty            |       0              |            -1             
+23             |        Alcantara        |       1              |            23             
+24             |        James            |       1              |            24             
+25             |        Kelly            |       1              |            25             
+26             |        brutalize        |       1              |            26             
+27             |        Afterwards       |       1              |            27             
+28             |        Batbold          |       1              |            28             
+29             |        rationalize      |       4              |            26             
+30             |        Honor            |       1              |            30             
+31             |        John             |       1              |            31             
+32             |        parasympathetic  |       2              |            31             
+33             |        Qamruddin        |       1              |            33             
+34             |        Misogamist       |       2              |            33             
+35             |        Todd             |       1              |            35             
+36             |        cap              |       5              |            32             
+37             |        Scott            |       1              |            37             
+38             |        scat             |       12             |            27             
+39             |        wet              |       12             |            28             
+40             |        Crouch           |       1              |            40             
+41             |        empty            |       0              |            -1             
+42             |        empty            |       0              |            -1             
+43             |        Veronica         |       1              |            43             
+44             |        empty            |       0              |            -1             
+45             |        empty            |       0              |            -1             
+46             |        Robert           |       1              |            46             
+47             |        empty            |       0              |            -1             
+48             |        live             |       1              |            48             
+49             |        empty            |       0              |            -1             
+50             |        empty            |       0              |            -1             
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        Bhandari         |       1              |            53             
+54             |        Zulfiqar         |       1              |            54             
+55             |        Michael          |       1              |            55             
+56             |        Daniels          |       1              |            56             
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        empty            |       0              |            -1             
+60             |        Judy             |       1              |            60             
+61             |        Carmona          |       1              |            61             
+62             |        Octavio          |       2              |            61             
+63             |        Egbe             |       1              |            63             
+64             |        Joel             |       3              |            62             
+65             |        Kyle             |       1              |            65             
+66             |        Northwest        |       1              |            66             
+67             |        Adam             |       1              |            67             
+68             |        Yolk             |       2              |            67             
+69             |        Joseph           |       1              |            69             
+70             |        Akhila           |       1              |            70             
+71             |        Irreversible     |       2              |            70             
+72             |        Fabricate        |       12             |            61             
+73             |        Chris            |       1              |            73             
+74             |        Finagle          |       5              |            70             
+75             |        Person           |       1              |            75             
+76             |        Farral           |       1              |            76             
+77             |        Jutty            |       2              |            76             
+78             |        Dugger           |       1              |            78             
+79             |        Syncopate        |       2              |            78             
+80             |        poison           |       9              |            72             
+81             |        Buck             |       1              |            81             
+82             |        cauldron         |       15             |            68             
+83             |        inlet            |       12             |            72             
+84             |        constrain        |       20             |            65             
+85             |        Fabulous         |       1              |            85             
+86             |        Ajose            |       1              |            86             
+87             |        Jeffrey          |       1              |            87             
+88             |        Jordon           |       1              |            88             
+89             |        empty            |       0              |            -1             
+90             |        empty            |       0              |            -1             
+91             |        empty            |       0              |            -1             
+92             |        Aguirrie         |       1              |            92             
+93             |        Gurung           |       2              |            92             
+94             |        Wade             |       2              |            93             
+95             |        empty            |       0              |            -1             
+96             |        empty            |       0              |            -1             
+97             |        Fernando         |       1              |            97             
+98             |        Casper           |       1              |            98             
+99             |        Maiden           |       2              |            98             
+100            |        Cook             |       1              |            100            
+101            |        Vinnela          |       1              |            101            
+102            |        Under            |       5              |            98             
+103            |        Acevedo          |       1              |            103            
+104            |        ABCDEFGHIJKLMNOP |       1              |            104            
+105            |        Staple           |       1              |            105            
+106            |        Cook             |       7              |            100            
+107            |        Red              |       1              |            107            
+108            |        Constriction     |       2              |            107            
+109            |        mole             |       13             |            97             
+110            |        empty            |       0              |            -1             
+111            |        Derek            |       1              |            111            
+112            |        Davies           |       1              |            112            
+113            |        empty            |       0              |            -1             
+114            |        empty            |       0              |            -1             
+115            |        empty            |       0              |            -1             
+116            |        Arauza           |       1              |            116            
+117            |        Garza            |       1              |            117            
+118            |        Nienberg         |       1              |            118            
+119            |        Dustin           |       1              |            119            
+120            |        Paschal          |       1              |            120            
+121            |        Clark            |       1              |            121            
+122            |        1234567890123456 |       1              |            122            
+123            |        Wine             |       5              |            119            
+124            |        ratiocination    |       1              |            124            
+125            |        Perfect          |       1              |            125            
+126            |        Rush             |       1              |            126            
+127            |        prepossess       |       1              |            127            
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 1
+Average probes is: 1.0
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 20
+Average probes is: 6.12
+
+
+Total Average:2.6470588235294117
+
+
+Theoretical Probes:
+Theoretical Probes: 3.0000000000000004
+
+finalHash MyHash Random
+Index                      Word                 Probes                  Original Hash
+0              |        empty            |       0              |            -1             
+1              |        empty            |       0              |            -1             
+2              |        Matthew          |       1              |            2              
+3              |        empty            |       0              |            -1             
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        empty            |       0              |            -1             
+7              |        empty            |       0              |            -1             
+8              |        Salkowski        |       1              |            8              
+9              |        empty            |       0              |            -1             
+10             |        empty            |       0              |            -1             
+11             |        empty            |       0              |            -1             
+12             |        empty            |       0              |            -1             
+13             |        Lisa             |       1              |            13             
+14             |        Charles          |       1              |            14             
+15             |        empty            |       0              |            -1             
+16             |        Ellington        |       1              |            16             
+17             |        empty            |       0              |            -1             
+18             |        Corey            |       1              |            18             
+19             |        Clayton          |       2              |            18             
+20             |        empty            |       0              |            -1             
+21             |        empty            |       0              |            -1             
+22             |        empty            |       0              |            -1             
+23             |        Alcantara        |       1              |            23             
+24             |        empty            |       0              |            -1             
+25             |        Kelly            |       1              |            25             
+26             |        empty            |       0              |            -1             
+27             |        empty            |       0              |            -1             
+28             |        empty            |       0              |            -1             
+29             |        empty            |       0              |            -1             
+30             |        empty            |       0              |            -1             
+31             |        John             |       1              |            31             
+32             |        empty            |       0              |            -1             
+33             |        Qamruddin        |       1              |            33             
+34             |        empty            |       0              |            -1             
+35             |        Todd             |       1              |            35             
+36             |        empty            |       0              |            -1             
+37             |        Scott            |       1              |            37             
+38             |        empty            |       0              |            -1             
+39             |        empty            |       0              |            -1             
+40             |        Crouch           |       1              |            40             
+41             |        empty            |       0              |            -1             
+42             |        empty            |       0              |            -1             
+43             |        Veronica         |       1              |            43             
+44             |        empty            |       0              |            -1             
+45             |        empty            |       0              |            -1             
+46             |        Robert           |       1              |            46             
+47             |        empty            |       0              |            -1             
+48             |        empty            |       0              |            -1             
+49             |        empty            |       0              |            -1             
+50             |        empty            |       0              |            -1             
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        Bhandari         |       1              |            53             
+54             |        Zulfiqar         |       1              |            54             
+55             |        Michael          |       1              |            55             
+56             |        Daniels          |       1              |            56             
+57             |        empty            |       0              |            -1             
+58             |        empty            |       0              |            -1             
+59             |        empty            |       0              |            -1             
+60             |        Judy             |       1              |            60             
+61             |        Carmona          |       1              |            61             
+62             |        Octavio          |       2              |            61             
+63             |        Egbe             |       1              |            63             
+64             |        empty            |       0              |            -1             
+65             |        Kyle             |       1              |            65             
+66             |        empty            |       0              |            -1             
+67             |        Adam             |       1              |            67             
+68             |        empty            |       0              |            -1             
+69             |        Joseph           |       1              |            69             
+70             |        Akhila           |       1              |            70             
+71             |        empty            |       0              |            -1             
+72             |        empty            |       0              |            -1             
+73             |        empty            |       0              |            -1             
+74             |        empty            |       0              |            -1             
+75             |        empty            |       0              |            -1             
+76             |        Farral           |       1              |            76             
+77             |        empty            |       0              |            -1             
+78             |        Dugger           |       1              |            78             
+79             |        empty            |       0              |            -1             
+80             |        empty            |       0              |            -1             
+81             |        Buck             |       1              |            81             
+82             |        empty            |       0              |            -1             
+83             |        empty            |       0              |            -1             
+84             |        empty            |       0              |            -1             
+85             |        empty            |       0              |            -1             
+86             |        Ajose            |       1              |            86             
+87             |        Jeffrey          |       1              |            87             
+88             |        Jordon           |       1              |            88             
+89             |        empty            |       0              |            -1             
+90             |        empty            |       0              |            -1             
+91             |        empty            |       0              |            -1             
+92             |        Aguirrie         |       1              |            92             
+93             |        Gurung           |       2              |            92             
+94             |        empty            |       0              |            -1             
+95             |        empty            |       0              |            -1             
+96             |        empty            |       0              |            -1             
+97             |        empty            |       0              |            -1             
+98             |        Casper           |       1              |            98             
+99             |        empty            |       0              |            -1             
+100            |        Cook             |       1              |            100            
+101            |        Vinnela          |       1              |            101            
+102            |        empty            |       0              |            -1             
+103            |        Acevedo          |       1              |            103            
+104            |        ABCDEFGHIJKLMNOP |       1              |            104            
+105            |        empty            |       0              |            -1             
+106            |        empty            |       0              |            -1             
+107            |        Red              |       1              |            107            
+108            |        empty            |       0              |            -1             
+109            |        empty            |       0              |            -1             
+110            |        empty            |       0              |            -1             
+111            |        Derek            |       1              |            111            
+112            |        Davies           |       1              |            112            
+113            |        empty            |       0              |            -1             
+114            |        empty            |       0              |            -1             
+115            |        empty            |       0              |            -1             
+116            |        Arauza           |       1              |            116            
+117            |        Garza            |       1              |            117            
+118            |        Nienberg         |       1              |            118            
+119            |        Dustin           |       1              |            119            
+120            |        Paschal          |       1              |            120            
+121            |        Clark            |       1              |            121            
+122            |        1234567890123456 |       1              |            122            
+123            |        empty            |       0              |            -1             
+124            |        empty            |       0              |            -1             
+125            |        empty            |       0              |            -1             
+126            |        empty            |       0              |            -1             
+127            |        empty            |       0              |            -1             
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 1
+Average probes is: 1.0
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 2
+Average probes is: 1.12
+
+
+Total Average:1.0588235294117647
+
+
+Theoretical Probes:
+Theoretical Probes: 1.3333333333333335
+
+finalHash MyHash Random
+Index                      Word                 Probes                  Original Hash
+0              |        mole             |       4              |            97             
+1              |        Under            |       4              |            98             
+2              |        Matthew          |       1              |            2              
+3              |        Perfect          |       3              |            125            
+4              |        empty            |       0              |            -1             
+5              |        empty            |       0              |            -1             
+6              |        wince            |       1              |            6              
+7              |        Christopher      |       1              |            7              
+8              |        Salkowski        |       1              |            8              
+9              |        magnetic         |       2              |            8              
+10             |        inlet            |       7              |            72             
+11             |        Eye              |       1              |            11             
+12             |        empty            |       0              |            -1             
+13             |        Lisa             |       1              |            13             
+14             |        Charles          |       1              |            14             
+15             |        empty            |       0              |            -1             
+16             |        Ellington        |       1              |            16             
+17             |        Screen           |       2              |            16             
+18             |        Corey            |       1              |            18             
+19             |        Clayton          |       2              |            18             
+20             |        empty            |       0              |            -1             
+21             |        orthodontist     |       5              |            121            
+22             |        empty            |       0              |            -1             
+23             |        Alcantara        |       1              |            23             
+24             |        James            |       1              |            24             
+25             |        Kelly            |       1              |            25             
+26             |        brutalize        |       1              |            26             
+27             |        Afterwards       |       1              |            27             
+28             |        Batbold          |       1              |            28             
+29             |        wet              |       2              |            28             
+30             |        Honor            |       1              |            30             
+31             |        John             |       1              |            31             
+32             |        parasympathetic  |       2              |            31             
+33             |        Qamruddin        |       1              |            33             
+34             |        Misogamist       |       2              |            33             
+35             |        Todd             |       1              |            35             
+36             |        empty            |       0              |            -1             
+37             |        Scott            |       1              |            37             
+38             |        cap              |       3              |            32             
+39             |        empty            |       0              |            -1             
+40             |        Crouch           |       1              |            40             
+41             |        marsupial        |       4              |            10             
+42             |        empty            |       0              |            -1             
+43             |        Veronica         |       1              |            43             
+44             |        Necromancer      |       4              |            13             
+45             |        empty            |       0              |            -1             
+46             |        Robert           |       1              |            46             
+47             |        empty            |       0              |            -1             
+48             |        live             |       1              |            48             
+49             |        sparse           |       4              |            18             
+50             |        toluene          |       11             |            116            
+51             |        empty            |       0              |            -1             
+52             |        empty            |       0              |            -1             
+53             |        Bhandari         |       1              |            53             
+54             |        Zulfiqar         |       1              |            54             
+55             |        Michael          |       1              |            55             
+56             |        Daniels          |       1              |            56             
+57             |        rationalize      |       4              |            26             
+58             |        scat             |       4              |            27             
+59             |        quandary         |       11             |            125            
+60             |        Judy             |       1              |            60             
+61             |        Carmona          |       1              |            61             
+62             |        Octavio          |       2              |            61             
+63             |        Egbe             |       1              |            63             
+64             |        empty            |       0              |            -1             
+65             |        Kyle             |       1              |            65             
+66             |        Northwest        |       1              |            66             
+67             |        Adam             |       1              |            67             
+68             |        Joel             |       3              |            62             
+69             |        Joseph           |       1              |            69             
+70             |        Akhila           |       1              |            70             
+71             |        Irreversible     |       2              |            70             
+72             |        poison           |       1              |            72             
+73             |        Chris            |       1              |            73             
+74             |        cauldron         |       3              |            68             
+75             |        Person           |       1              |            75             
+76             |        Farral           |       1              |            76             
+77             |        Jutty            |       2              |            76             
+78             |        Dugger           |       1              |            78             
+79             |        Syncopate        |       2              |            78             
+80             |        empty            |       0              |            -1             
+81             |        Buck             |       1              |            81             
+82             |        empty            |       0              |            -1             
+83             |        Finagle          |       6              |            70             
+84             |        empty            |       0              |            -1             
+85             |        Fabulous         |       1              |            85             
+86             |        Ajose            |       1              |            86             
+87             |        Jeffrey          |       1              |            87             
+88             |        Jordon           |       1              |            88             
+89             |        Fabricate        |       5              |            61             
+90             |        empty            |       0              |            -1             
+91             |        empty            |       0              |            -1             
+92             |        Aguirrie         |       1              |            92             
+93             |        Gurung           |       2              |            92             
+94             |        Wade             |       2              |            93             
+95             |        Yolk             |       5              |            67             
+96             |        constrain        |       4              |            65             
+97             |        Fernando         |       1              |            97             
+98             |        Casper           |       1              |            98             
+99             |        Maiden           |       2              |            98             
+100            |        Cook             |       1              |            100            
+101            |        Vinnela          |       1              |            101            
+102            |        empty            |       0              |            -1             
+103            |        Acevedo          |       1              |            103            
+104            |        ABCDEFGHIJKLMNOP |       1              |            104            
+105            |        Staple           |       1              |            105            
+106            |        Cook             |       3              |            100            
+107            |        Red              |       1              |            107            
+108            |        Constriction     |       2              |            107            
+109            |        empty            |       0              |            -1             
+110            |        empty            |       0              |            -1             
+111            |        Derek            |       1              |            111            
+112            |        Davies           |       1              |            112            
+113            |        empty            |       0              |            -1             
+114            |        empty            |       0              |            -1             
+115            |        empty            |       0              |            -1             
+116            |        Arauza           |       1              |            116            
+117            |        Garza            |       1              |            117            
+118            |        Nienberg         |       1              |            118            
+119            |        Dustin           |       1              |            119            
+120            |        Paschal          |       1              |            120            
+121            |        Clark            |       1              |            121            
+122            |        1234567890123456 |       1              |            122            
+123            |        empty            |       0              |            -1             
+124            |        ratiocination    |       1              |            124            
+125            |        Wine             |       3              |            119            
+126            |        Rush             |       1              |            126            
+127            |        prepossess       |       1              |            127            
+
+
+First 25 keys:
+Minimum probes is: 1
+Maximum probes is: 1
+Average probes is: 1.0
+
+
+Last 25 keys:
+Minimum probes is: 1
+Maximum probes is: 11
+Average probes is: 3.4
+
+
+Total Average:1.911764705882353
+
+
+Theoretical Probes:
+Theoretical Probes: 3.0000000000000004
